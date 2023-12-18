@@ -1,0 +1,17 @@
+body {
+    background-color: #252526;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+#navigation_bar {
+    background-color: #1E1E1E;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px;
+    font-size: 24px;
+    gap: 80px;
+}
